@@ -1,4 +1,4 @@
-# Projeto para disciplia de padrões de projeto
+# Projeto para disciplina de padrões de projeto
 
 Aqui nesse codigo eu exemplifico, na pratica como que a gente utiliza o padrão mediator num codigo java.
 
